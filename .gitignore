@@ -1,0 +1,9 @@
+.DS_Store
+xcuserdata
+*.xcworkspace
+*.pyc
+Pods/
+Podfile.lock
+server/v/
+video/
+graphic/
